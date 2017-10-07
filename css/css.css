@@ -1,0 +1,24 @@
+
+body {
+    font-size: 12px;
+    line-height: 20px;
+    max-width: 980px;
+    margin: auto;
+;
+}
+a:link {
+    color: #7C7C7C;
+    text-decoration: none;
+}
+a:active {
+    color: #7C7C7C;
+    text-decoration: none;
+}
+a:visited {
+    color: #7C7C7C;
+    text-decoration: none;
+}
+a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
